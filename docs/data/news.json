@@ -1,5 +1,29 @@
 [
   {
+    "title": "Welcome to APNIC 62",
+    "link": "https://blog.apnic.net/category/events/",
+    "description": "APNIC welcomes you to Mumbai, India for APNIC 62. Here is what you can look forward to over the coming days.",
+    "pubDate": "2026-09-08T03:33:07.000Z",
+    "source": "APNIC",
+    "sourceIcon": "🌏"
+  },
+  {
+    "title": "15th Registration Operations Workshop, September 29, 2026, 13:00 - 17:00 UTC",
+    "link": "https://circleid.com/posts/15th_registration_operations_workshop_september_29_2026",
+    "description": "The 15th Registration Operations Workshop convenes domain name and DNS professionals September 29 for technical sessions on mTLS, RPKI, DNS resilience, delegations, DNSSEC, registrar concentration, dispute proceedings and alternative naming systems.",
+    "pubDate": "2026-09-07T14:59:00.000Z",
+    "source": "CircleID",
+    "sourceIcon": "🔵"
+  },
+  {
+    "title": "WSIS Forum 2026: From commitments to measurable implementation",
+    "link": "https://blog.apnic.net/category/community/",
+    "description": "WSIS Forum 2026 marked the start of a new phase for global digital development, shifting the focus from commitments to measurable implementation.",
+    "pubDate": "2026-09-06T23:14:00.000Z",
+    "source": "APNIC",
+    "sourceIcon": "🌏"
+  },
+  {
     "title": "When a Link Becomes a Border: The Quiet Geopolitics of Internet Access",
     "link": "https://circleid.com/posts/when&#45;a&#45;link&#45;becomes&#45;a&#45;border&#45;the&#45;quiet&#45;geopolitics&#45;of&#45;internet&#45;access",
     "description": "A LinkedIn short-link anomaly in Iran reveals how sanctions, corporate compliance and geolocation controls can translate geopolitical boundaries into infrastructure-level restrictions, creating an Internet that remains globally connected while becoming functionally unequal.",
@@ -136,14 +160,6 @@
     "sourceIcon": "🔵"
   },
   {
-    "title": "4iG and SpaceX Plan Starlink Mobile Rollout Across Hungary and Western Balkans",
-    "link": "https://circleid.com/posts/4ig&#45;and&#45;spacex&#45;plan&#45;starlink&#45;mobile&#45;rollout&#45;across&#45;hungary&#45;and&#45;western&#45;balkans",
-    "description": "4iG and SpaceX plan direct-to-device Starlink services across four European markets, alongside secured government communications, but national spectrum approvals and key details of the proposed sovereign infrastructure remain unresolved.",
-    "pubDate": "2026-09-02T15:27:00.000Z",
-    "source": "CircleID",
-    "sourceIcon": "🔵"
-  },
-  {
     "title": "Bridging the Gap Between Theory and Practice in Internet Operations",
     "link": "https://labs.ripe.net/author/jelena/bridging-the-gap-between-theory-and-practice-in-internet-operations/",
     "description": "Internet research can benefit from operational insight, and network operators from research expertise. Building on what we learned at RIPE 92, we look at practical ways to make those connections easier and turn promising conversations into lasting collaboration.",
@@ -262,22 +278,6 @@
     "pubDate": "2026-08-27T16:00:00.000Z",
     "source": "IETF",
     "sourceIcon": "📋"
-  },
-  {
-    "title": "Online voting for NRO NC election 2026 opens today",
-    "link": "https://blog.apnic.net/category/community/",
-    "description": "Cast your vote for the seat open for election on the NRO NC. All voting closes on Thursday, 10 September 2026 at 14:30 (UTC +5:30).",
-    "pubDate": "2026-08-27T04:01:00.000Z",
-    "source": "APNIC",
-    "sourceIcon": "🌏"
-  },
-  {
-    "title": "EC Chair&#8217;s Preview: September EC Meeting and APNIC 62",
-    "link": "https://blog.apnic.net/category/community/",
-    "description": "Get an overview of the topics the EC are considering ahead of the September meeting at APNIC 62.",
-    "pubDate": "2026-08-27T00:52:41.000Z",
-    "source": "APNIC",
-    "sourceIcon": "🌏"
   },
   {
     "title": "The Cloudflare Blog — brought to you by EmDash",
